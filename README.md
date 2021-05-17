@@ -47,23 +47,22 @@ As principais ferramentas usadas:
 - [Git](https://git-scm.com)
 - [Node](https://nodejs.org/en/)
 
-
-### Credits
-
-- [x] Roger Melo
-
- <div class="links">
- <br/> <br/> <br/> <br/>  <br/> <br/> <br/> <br/> <br/> <br/>
-<h2>LINKS </h2>
+ <div class="links">  
+<h2>:white_check_mark: LINKS </h2>
 <a href="https://github.com/TeoNogueira">🌀 Github Teo_Nogueira</a><br/>
 <a href="https://instagram.com/teo_nogueira">🌀 Instagram Teo_Nogueira</a><br/>
-  <a href="https://www.instagram.com/beginjscript/">🌀 Maker Teo_Nogueira <a href="">
-  <img width="10" title="Socket.io" alt="Socket.io" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
+  <a href="https://www.instagram.com/beginjscript/">🌀 MyPage BeginJScript <a href="">
+  <img width="10" title="Socket.io" alt="" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
 </a> &#xa0; &#xa0;</a><br/>
   
 
 
 <br/>
+<br/>
+
+
 </div>
 <div>📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌 </div>
-
+<br/>
+### Credits
+- [x] Roger Melo
