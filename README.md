@@ -32,7 +32,7 @@ As principais ferramentas usadas:
 </a> &#xa0; &#xa0;
 
 <a href="">
-  <img width="50" title="Socket.io" alt="Socket.io" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
+  <img width="50" title="html5" alt="html5" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
 </a> &#xa0; &#xa0;
 
 ## 📚 Content
@@ -51,8 +51,8 @@ As principais ferramentas usadas:
 <h2>:white_check_mark: LINKS </h2>
 <a href="https://github.com/TeoNogueira">🌀 Github Teo_Nogueira</a><br/>
 <a href="https://instagram.com/teo_nogueira">🌀 Instagram Teo_Nogueira</a><br/>
-  <a href="https://www.instagram.com/beginjscript/">🌀 MyPage BeginJScript <a href="">
-  <img width="10" title="Socket.io" alt="" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
+  <a href="https://www.instagram.com/beginjscript/">🌀 MyPage BeginJScript   <a href="">
+   <img width="15" title="Socket.io" alt="" src="https://github.com/TeoNogueira/Api-pokemons-project/blob/master/jsa.png">
 </a> &#xa0; &#xa0;</a><br/>
   
 
