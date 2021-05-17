@@ -1,6 +1,6 @@
 <div align="center" id="top">
   <h3>API_POKEMONS</h3>
-  <img height="500" src="https://github.com/TeoNogueira/Api-pokemons-project/blob/master/Api_PokeDex.gif">
+  <img height="420" src="https://github.com/TeoNogueira/Api-pokemons-project/blob/master/Api_PokeDex.gif">
 
   &#xa0;
 
