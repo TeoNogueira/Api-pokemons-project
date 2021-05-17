@@ -52,18 +52,16 @@ As principais ferramentas usadas:
 
 - [x] Roger Melo
 
-<br/>
-
  <div class="links">
  <br/> <br/> <br/> <br/>  <br/> <br/> <br/> <br/> <br/> <br/>
 <h2>LINKS </h2>
 <a href="https://github.com/TeoNogueira">🌀 Github Teo_Nogueira</a><br/>
 <a href="https://instagram.com/teo_nogueira">🌀 Instagram Teo_Nogueira</a><br/>
-  <a href="https://www.instagram.com/beginjscript/">🌀 Maker Teo_Nogueira</a><br/>
+  <a href="https://www.instagram.com/beginjscript/">🌀 Maker Teo_Nogueira <a href="">
+  <img width="10" title="Socket.io" alt="Socket.io" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
+</a> &#xa0; &#xa0;</a><br/>
   
-<a href="">
-  <img width="50" title="Socket.io" alt="Socket.io" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
-</a> &#xa0; &#xa0;
+
 
 <br/>
 </div>
