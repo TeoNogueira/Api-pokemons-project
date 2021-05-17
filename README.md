@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <a href="#About">About</a> &#xa0; | &#xa0;
+  <a href="#:dart:">About</a> &#xa0; | &#xa0;
   <a href="#Technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#Prerequisites">Prerequisites</a> &#xa0;  &#xa0;
+  <a href="#:white_check_mark:">Prerequisites</a> &#xa0;  &#xa0;
 
 </p>
 
